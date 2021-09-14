@@ -1,0 +1,7 @@
+.container_editor{
+    background: #020509;
+    margin-left: 30px;
+    overflow: auto;
+    padding: 20px;
+    width: 100%;
+}

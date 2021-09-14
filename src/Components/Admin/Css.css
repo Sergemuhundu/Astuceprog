@@ -65,6 +65,9 @@ body{
         "sidebar nav nav nav"
         "sidebar main main main"
 }
+.container_editor{
+    margin-left: 50px;
+}
 
 @media only screen and (max-width:978px){
     .container{
